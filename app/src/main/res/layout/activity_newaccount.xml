@@ -65,10 +65,10 @@
 
 
     <Button
-        android:id="@+id/buttonSendEmail"
+        android:id="@+id/createAccount"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Send Email Confirmation"
+        android:text="Create Account"
         app:layout_constraintTop_toBottomOf="@id/editTextConfirmPassword"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
